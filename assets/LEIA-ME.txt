@@ -1,0 +1,23 @@
+COMO ADICIONAR A FOTO DO HERO
+=============================
+
+A página usa uma foto de fundo no topo (hero) e na seção final.
+
+1. Salve a foto do casal na Torre Eiffel (a segunda imagem que você enviou)
+   DENTRO desta pasta (assets).
+
+2. O nome do arquivo PRECISA ser exatamente:
+
+       hero.jpg
+
+   Caminho final:
+   landing-pages/ele-vai-te-assumir-20-dias/assets/hero.jpg
+
+3. Pronto. Abra o index.html no navegador e a foto aparece automaticamente.
+
+OBS: enquanto a foto não estiver aqui, o hero fica com um fundo escuro
+elegante (gradiente) — então a página funciona mesmo sem a imagem,
+mas fica muito melhor com ela.
+
+Dica: se a foto for muito pesada, comprima em https://squoosh.app
+(deixe abaixo de ~400 KB para o site carregar rápido).
